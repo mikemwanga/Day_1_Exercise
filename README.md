@@ -1,5 +1,5 @@
-# Attempt the Following Exercise
-## *Write down commands and answers in `day_answers.txt` file*
+### Attempt the Following Exercise
+#### *Write down commands and answers in `day_answers.txt` file*
 While working from your `home` directory in the server; 
 
 1. Create a directory named `Day_One` and inside `Day_One` create `Exercise` folder and `day_answers.txt`.
