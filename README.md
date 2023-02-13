@@ -9,4 +9,4 @@ While working from your `home` directory in the server;
 3. Count the number of lines, words and characters in `nCov-2019.reference.fasta`.
 
 
-[Link to Introduction to Linux training](https://kemriwellcometrust-my.sharepoint.com/:p:/g/personal/jmwanga_kemri-wellcome_org/EZTPY9xsGLhPqaU36QeV-swBuUo3onBPyT6BLbBDy3fqFg?e=4Eb7hH)
+[Link to Introduction_to_Linux_Slides_](https://kemriwellcometrust-my.sharepoint.com/:p:/g/personal/jmwanga_kemri-wellcome_org/EZTPY9xsGLhPqaU36QeV-swBuUo3onBPyT6BLbBDy3fqFg?e=4Eb7hH)
